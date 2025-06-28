@@ -1,9 +1,10 @@
 <h1 align="center">Oi 👋, eu sou Leonardo Nonato</h1>
-<h3 align="center">Estudante de Programação/Trailhead</h3>
+<h3 align="center">Sou um profissional de tecnologia</h3>
+<h3 align="center">Com sólida experiência com Automações</h3>
 
-- 🌱 Atualmente estou aprendendo **Apex**
+- 🌱 Atualmente estou atuando como **Analista de TI**
 
-- 💬 Me pergunte sobre **Desenvolvimento Salesforce**
+- 💬 Me pergunte sobre **Integrações e Automações**
 
 - 📫 Você me encontra em **leonardoantunes241@gmail.com**
 
